@@ -23,7 +23,7 @@ Breadboard and connector
 Convert .c file to .ino and apply it.
 
 ## Test video
-[![Video Label](http://img.youtube.com/vi/hR6FBDZ6PJM/0.jpg)](https://youtu.be/hR6FBDZ6PJM)
-
+##[![Video Label](http://img.youtube.com/vi/hR6FBDZ6PJM/0.jpg)](https://youtu.be/hR6FBDZ6PJM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hR6FBDZ6PJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## License
 MIT
